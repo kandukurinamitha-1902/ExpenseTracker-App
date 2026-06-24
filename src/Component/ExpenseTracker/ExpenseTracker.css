@@ -1,0 +1,55 @@
+.expenseTracker{
+    border: 3px solid black;
+    border-radius: 14px;
+}
+.container{
+    display: flex;
+    gap:70%;
+}
+.container h1{
+    font-size: 30px;
+    width: 400px;
+}
+.block1{
+    border: 3px solid black;
+    padding: 20px
+}
+.block1 input{
+    border: 3px solid black;
+}
+.block2 input{
+    border: 3px solid black;
+
+}
+.button{
+    display: flex;
+    gap: 10px;
+    height: 70px;
+}
+.d-flex{
+    width: 100%;
+    
+}
+.container2{
+    padding: 10px;
+}
+
+
+.container2Block1{
+    display: flex;
+    gap: 26%;
+    border: 3px solid black;
+    padding: 10px;
+    margin: 10px;
+    background: radial-gradient(rgba(167, 241, 208, 0.677));
+    font-size: 30px;  
+}
+
+.container2Block1  button{
+    
+    color:whiteS;
+}
+
+
+
+
