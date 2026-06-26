@@ -21,10 +21,7 @@ JavaScript
 BootStrap
 UI Material
 
- Installation:
-
-npm install
-npm run dev
+ 
 
 
 Future Improvements
