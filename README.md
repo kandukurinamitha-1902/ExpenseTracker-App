@@ -22,21 +22,31 @@ BootStrap
 UI Material
 
  
+ After Cloning We need to Install this Extensions:
+BootStrap: npm install bootstrap@5.3.8
+Ui Material:
+npm install @mui/material @mui/styled-engine-sc styled-components
 
+npm install @mui/material @emotion/react @emotion/styled
 
-Future Improvements
+npm install react-is@18.3.1
 
-None
+npm install @mui/icons-material
+
+Router: 
+npm install react-hook-form 
+
+npm install react-router-dom
+
 
 screenshort:
 ![alt text](image.png)
 
 Author
-
-Name: Your Name
+Name: Kandukuri Namitha
 
 GitHub: https://github.com/kandukurinamitha-1902
-Email: your-kandukurinamitha@gmail.com
+Email: kandukurinamitha@gmail.com
 
 
 License
