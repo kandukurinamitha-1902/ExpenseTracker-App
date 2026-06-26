@@ -193,7 +193,7 @@ return(
                             />
                         {errors.expense && <p style={{ color: "red" }}>{errors.expense}</p>}
                         </div>
-                        <button type="submit" class="btn btn-success" style={{width: "170px", marginLeft: "40%" }} >{showDiv ? "Add Transaction" : "Add Transaction"}</button>
+                        <button type="submit"  style={{width: "170px", marginLeft: "40%" }} >{showDiv ? "Add Transaction" : "Add Transaction"}</button>
                     </RadioGroup>
                 </div>
 
