@@ -28,6 +28,8 @@ Future Improvements
 
 None
 
+screenshort:
+![alt text](image.png)
 
 Author
 
@@ -41,7 +43,7 @@ License
 
 This project is created for learning purposes.
 
-![alt text](image.png)
+
 
 
 
