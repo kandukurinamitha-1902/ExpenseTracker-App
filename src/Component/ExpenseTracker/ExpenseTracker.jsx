@@ -196,7 +196,7 @@ return(
                         <button type="submit" class="btn btn-success" style={{width: "170px", marginLeft: "40%" }} >{showDiv ? "Add Transaction" : "Add Transaction"}</button>
                     </RadioGroup>
                 </div>
-                
+
             </div>
             )}
         </form>
@@ -216,8 +216,6 @@ return(
                     label="Expense"
                     >₹{budget}</h1>
                     </div>
-               
-                
             </Box>
         </div>
         <h1>Transactions</h1>
@@ -247,12 +245,6 @@ return(
                 </Grid>
                  ))}; 
             </Box>
-
-
-
-
-
-
     </div>
 )
 }; export default ExpenseTracker
