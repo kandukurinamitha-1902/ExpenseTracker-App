@@ -25,6 +25,7 @@ const App = () => {
       <BrowserRouter>
       <Routes>
         <Route path='/' element = {<ExpenseTracker  trackData = {trackData} setTrackData = {setTrackData}/>} />
+       
       </Routes>
       </BrowserRouter>
     </div>

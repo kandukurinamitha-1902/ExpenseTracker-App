@@ -35,7 +35,7 @@
 }
 
 
-.container2Block1{
+.expenseBlock{
     display: flex;
     gap: 26%;
     border: 3px solid black;
@@ -45,7 +45,18 @@
     font-size: 30px;  
 }
 
-.container2Block1  button{
+.budgetBlock{
+    display: flex;
+    gap: 26%;
+    border: 3px solid black;
+    padding: 10px;
+    margin: 10px;
+    background: radial-gradient(rgba(204, 49, 21, 0.677));
+    font-size: 30px;  
+}
+
+
+.expenseBlock button{
     
     color:whiteS;
 }

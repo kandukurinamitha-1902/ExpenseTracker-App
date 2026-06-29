@@ -229,7 +229,7 @@ return(
         </nav>
             <Box sx={{ flexGrow: 1 }} className= "container2">
                 {filteredData.map((track) => (
-                <Grid container spacing={2} className= "container2Block1" >
+                <Grid container spacing={2} className={track.isBudget ? "expenseBlock" :  "budgetBlock"} >
                     <Grid size={2}>
                         <div>{track.id}</div>
                     </Grid>
